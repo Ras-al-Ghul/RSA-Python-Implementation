@@ -1,4 +1,3 @@
-@@ -0,0 +1,94 @@
 #Only modulus and public key given
 modulus=500249844670447
 ekey=65537
