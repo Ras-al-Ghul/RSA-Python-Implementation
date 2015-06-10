@@ -1,4 +1,3 @@
-@@ -0,0 +1,108 @@
 #To generate random primes in the range CONST_MIN to CONST_MAX
 #The generated primes are 8 digits in length here because max value of message string for 
 #CONST_BYTE=4 is 1874160 
