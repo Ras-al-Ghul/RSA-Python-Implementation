@@ -1,4 +1,4 @@
-#RSA Cryptography implementation in Python
+# RSA Cryptography implementation in Python
 
 This is a basic Python code to implement RSA Cryptography. The aim was to learn to code in Python and to learn about the RSA Cryptosystem.
  
